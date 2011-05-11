@@ -1,0 +1,3 @@
+ruby -I lib lib/mm.rb
+
+jruby -fast -I lib lib/mm.rb
