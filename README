@@ -1,3 +1,8 @@
 ruby -I lib lib/mm.rb
 
 jruby -fast -I lib lib/mm.rb
+
+
+Picked up code from
+
+https://github.com/openhood/mongobench
